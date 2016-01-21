@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no, email=no">
+<meta charset="utf-8">
+<title>homepage_example</title>
+<link href="../css/reset.css" rel="stylesheet" type="text/css" />
+<link href="../css/normal_all.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="boxState"></div>
+<div class="Head">
+	<div class="boxHead">
+		<span style="width:100%">
+			<p class="title">首页示例</p>
+			<a class="over_hidden ellipsis" href="file:///C:/Users/CPIC/Desktop/%E7%BB%83%E4%B9%A0/pages/normal_Personal.html#"><img src="../img/iconfont-man.png" class="subR"></a>
+		</span>
+	</div>
+</div>
+<!--
+<div class="boxHead">
+		<img src="../img/back.png" class="subL">
+		<p class="title">首页示例</p>
+		<img src="../img/iconfont-man.png" class="subR">
+	</div>
+	-->
+<iframe src="file:///C:/Users/CPIC/Desktop/%E7%BB%83%E4%B9%A0/lunbo.html" width="100%" height="182px" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" style="margin-top:6.4rem;"></iframe>
+
+<!--
+<div class="boxBanner"></div>
+-->
+<div class="boxMore">
+	<div class="boxMoreWord">
+		<p class="Left">热门服务</p>
+		<a class="over_hidden ellipsis" href="#"><p class="Right">更多</p></a>
+	</div>
+</div>
+
+<!--产品展示  第一行-->
+<section class="photo over_hidden">
+<div class="testPhotoshow ">
+	<div class="testPhoto">
+    	<img class="show" src="../img/other_highlight.png"/><p class="show">展示名称1</p>
+    </div>
+</div>
+<div class="testPhotoshow">
+	<div class="testPhoto">
+    	<img class="show" src="../img/other_highlight.png"/><p class="show">展示名称2</p>
+    </div>
+</div>
+<div class="testPhotoshow">
+	<div class="testPhoto">
+    	<img class="show" src="../img/other_highlight.png"/><p class="show">展示名称3</p>
+    </div>
+</div>
+<!--产品展示  第二行-->
+<div class="testPhotoshow">
+	<div class="testPhoto">
+    	<img class="show" src="../img/other_highlight.png"/><p class="show">展示名称4</p>
+    </div>
+</div>
+<div class="testPhotoshow">
+	<div class="testPhoto">
+    	<img class="show" src="../img/other_highlight.png"/><p class="show">展示名称5</p>
+    </div>
+</div>
+<div class="testPhotoshow">
+	<div class="testPhoto">
+    	<img class="show" src="../img/other_highlight.png"/><p class="show">展示名称6</p>
+    </div>
+</div>
+</section>
+
+<div class="blank"></div>
+<div class="boxMore">
+	<div class="boxMoreWord">
+		<p class="Left">热门服务</p>
+		<a class="over_hidden ellipsis" href="#"><p class="Right">更多</p></a>
+	</div>
+</div>
+<!--<div class="lineA"></div>-->
+<div class="boxPhoto">
+	<div class="boxPhotoCont">
+		<img src="../img/自助报案页面-车-小图.png">
+		<ul>
+			<li class="title">一级标题28#3d</li>
+			<li class="subA">二级标题26#61</li>
+			<li class="subB">三级标题24#91</li>
+		</ul>
+	</div>
+</div>
+<div class="boxLine">
+	<div class="lineB"></div>
+</div>
+<div class="boxPhoto">
+	<div class="boxPhotoCont">
+		<img src="../img/自助报案页面-车-小图.png">
+		<ul>
+			<li class="title">一级标题28#3d</li>
+			<li class="subA">二级标题26#61</li>
+			<li class="subB">三级标题24#91</li>
+		</ul>
+	</div>
+</div>
+<!--大-->
+<div class="boxBottomL">
+	<div class="bottomContent"><img src="../img/iconfont-qiandao.png"><p>标题</p></div>
+	<div class="bottomContent"><img src="../img/iconfont-qiandao.png"><p>标题</p></div>
+	<div class="bottomContent"><img src="../img/iconfont-qiandao.png"><p>标题</p></div>
+	<div class="bottomContent"><img src="../img/iconfont-qiandao.png"><p>标题</p></div>
+</div>
+
+<!--小
+<div class="boxBottomS">
+	<div class="bottomContent"><img src="../img/iconfont-qiandao.png"><p>标题</p></div>
+	<div class="bottomContent"><img src="../img/iconfont-qiandao.png"><p>标题</p></div>
+	<div class="bottomContent"><img src="../img/iconfont-qiandao.png"><p>标题</p></div>
+	<div class="bottomContent"><img src="../img/iconfont-qiandao.png"><p>标题</p></div>
+</div>
+-->
+</body>
+</html>
